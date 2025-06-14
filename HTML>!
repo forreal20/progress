@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <title>Forreal's Profile</title>
+    </head>
+    <body>
+
+        <header>
+
+            <section>
+                <h1>Welcome to MyProfile</h1>
+                <p>Hi,I'm Farid- a future Programmer</p>
+            </header>
+            
+            <section>
+                <h2>About Me</h2>
+                <p>I'm a student at DIT learning  about Computer Engineering,Also am more interested in exploring deep in programming world</p>
+            </section>
+
+            <section>
+                <h2>Skills</h2>
+                <ul>
+                    <li>Basic HTML</li>
+                    <li>Starting C programming</li>
+                    <li>Strong interest in AI and Nertworking</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Contact me</h2>
+                <p>Email:<a href="forreal:farhidyathuman@gmail.com">farhidyathuman@gmail.com</a></p>
+            </section>
+
+            <footer>
+                <p>&copy;2025Farhidy Athuman.All right are preserved.</p>
+            </footer>
+
+    </body>
+</html>
