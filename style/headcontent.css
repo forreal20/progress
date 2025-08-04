@@ -1,0 +1,21 @@
+ <style>
+   .head-content{
+    font-family: arial;
+    font-size: medium;
+    font-style: italic;
+    color:rgb(107, 231, 231);
+    vertical-align: center;
+    }
+    .body-str{
+    background-color:grey;
+    font-family:Arial;
+}
+.buy-button{
+    background-color:yellow;
+    height:34px;
+    width:46px;
+    border:none;
+    border-style:solid;
+    border-width: 0.1ch;
+    border-radius: 8px;
+}</style>
