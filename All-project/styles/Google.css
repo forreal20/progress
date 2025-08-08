@@ -1,4 +1,4 @@
-<style>.google-style{
+ .google-style{
             padding-left: 200px;
         }
         .Search-bar{
@@ -15,5 +15,4 @@
         }
         .Search-bar:active{
             border: none;
-}
-</style>
+        }

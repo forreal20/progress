@@ -1,5 +1,4 @@
-       <style>
-          .request-division{
+ .request-division{
             font-family: Arial;
             font-size: 40px;
             font-weight: 500;
@@ -32,14 +31,14 @@
                     border: none;
                 }
                  .Request-button{
-                background-color: black;
-                height:32px;
-                width:130px;
-                border: none;
-                color:white;
-                margin-left: 2px;
-                cursor: pointer;
-                transition: opacity 0.15s;
+            background-color: black;
+            height:32px;
+            width:130px;
+            border: none;
+            color:white;
+            margin-left: 2px;
+            cursor: pointer;
+            transition: opacity 0.15s;
                  }
                  .button-container{
                     flex: 1;
@@ -52,6 +51,5 @@
                     cursor: pointer;
                  }
                   .button-container:active{
-                    border-width: 0.1ch;
+                    border-width: 0.1
                   }
-<style>
