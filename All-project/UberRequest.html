@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uber request-a-ride form</title>
+   
+    <link rel="stylesheet" href="styles/Uber.css">
+</head>
+<body>
+    <div class="request-division">
+        Request a ride now
+    </div>
+    <input  class="location-bar" type="text" placeholder="Enter pickup locatrion">
+
+    <input class="destination-bar" type="text" placeholder="Enter destination">
+
+    <button class="Request-button">
+        Request now
+    </button>
+
+    <button class="button-container">
+        Schedule for later
+    </button>
+
+</body>
+</html>
+   <style>
+        .request-division{
+            font-family: Arial;
+            font-size: 40px;
+            font-weight: 500;
+            padding-bottom: 20px;
+            color: black;
+            
+                }
+
+                .location-bar{
+                    background-color: #f5f5f5;
+                    color: grey;
+                    display : block;
+                    font-size : 15px;
+                    padding: 10px 12px;
+                    margin-bottom: 10px;
+                    padding-right: 200px ;
+                    box-sizing:border-box;
+                    border-width: 0.1ch;
+                    border: none;
+                }
+                .destination-bar{
+                    padding: 10px 12px;
+                    display: block;
+                    padding-right:200px ;
+                    margin-bottom: 10px;
+                    font-size: 15px;
+                    background-color: #f5f5f5;
+                    box-sizing:border-box;
+                    border-width: 0.1ch;
+                    border: none;
+                }
+                 .Request-button{
+            background-color: black;
+            height:32px;
+            width:130px;
+            border: none;
+            color:white;
+            margin-left: 2px;
+            cursor: pointer;
+            transition: opacity 0.15s;
+                 }
+                 .button-container{
+                    flex: 1;
+                    height:32px;
+                    width:140px;
+                    background-color: #f0e9e9;
+                    color: #000;
+                    border: none;
+                    margin-left: 10px;
+                    cursor: pointer;
+                 }
+                  .button-container:active{
+                    border-width: 0.1
+
+
+                  }
+    </style>

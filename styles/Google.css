@@ -1,0 +1,19 @@
+<style>.google-style{
+            padding-left: 200px;
+        }
+        .Search-bar{
+            font-family:Arial ;
+            margin-left: 120px;
+            border-radius: 16px;
+            border: none;
+            box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+            box-sizing: border-box;
+            cursor: pointer;   width: 500px;
+            padding: 8px 10px;
+            font-size: 15px;
+            color: grey;
+        }
+        .Search-bar:active{
+            border: none;
+}
+</style>

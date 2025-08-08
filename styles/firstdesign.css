@@ -1,0 +1,19 @@
+  <style>
+  .video-title {
+    font-family: Arial;
+    font-size:18px;
+    font-weight: bold;
+    line-height:18px ;
+    width:300 ;
+ }
+  .video-stats {
+    color: grey;
+    font-size: 14px;
+    background-color: aqua;
+
+    
+}
+.body-styles{
+    font-family: Arial;
+    }
+</style>
