@@ -1,5 +1,4 @@
-  <style>
-    .Request-button{
+ .Request-button{
             background-color: black;
             height:32px;
             width:130px;
@@ -106,4 +105,3 @@ cursor: pointer;
             color:white;
             box-shadow: 5px 5px 10px rgba(0,0,0,0.7);
         }
-    </style>
