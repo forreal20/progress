@@ -1,0 +1,49 @@
+.all-container{
+    margin-left: 8px;
+    margin-right: 8px;
+    
+}
+.about-style{
+    font-family: Arial;
+    background-color: #60af95;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.prof-container{
+    width: 150px;
+    height: 150;
+}
+.top-container{
+    display: flex;
+    flex: 1fr;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #57d8ad;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    justify-content: space-between;
+}
+.headsp-container{
+    color:rgb(0, 47, 255);
+    padding-right: 8px;
+}
+.pictr-container{
+    width: 38px;
+    height: 35px;
+    border-radius: 17px;
+    vertical-align: top;
+    justify-content:left;
+    margin-left: 50px;
+}
+.hamrburger-container{
+    height: 19px;
+    width: 10px;
+    background-color: white;
+}
+.cout-container{
+    color: darkslateblue;
+}
