@@ -1,5 +1,3 @@
-let int;
-let string;
 let yourAge=18;
 console.log("Enter your name");
 console.log("Enter your age");
