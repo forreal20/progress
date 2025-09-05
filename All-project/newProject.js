@@ -76,3 +76,32 @@ console.log(concept);
 
 let numberClusters = [[1,2], [3,4], [5,6]];
 console.log(numberClusters[2][1]);
+
+
+
+function sayThanks(name) {
+  console.log('Thank you for your purchase ' + name + '! We appreciate your business.');
+}
+
+sayThanks('Forreal');
+
+
+function monitorCount(rows, columns) {
+  return rows * columns;
+}
+function costOfMonitors(rows,columns) {
+  return monitorCount(rows,columns)*200;
+  
+}
+const totalCost=costOfMonitors(5,4);
+console.log(totalCost);
+
+const plantNeedsWater= function(day){
+if(day=== 'Wednesday'){
+  return true;
+}else{
+  return false;
+}
+};
+plantNeedsWater('Tuesday');
+console.log(plantNeedsWater('Tuesday'));
